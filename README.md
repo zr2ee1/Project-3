@@ -3,7 +3,13 @@ DESCRIPTION: ToDo React Redux Project
 DETAILS: This application is a simple todo list utilizing React and Redux, users can add, remove and filter todo items
 TECHNOLOGIES: React, Redux, HTML, CSS, JS
 FUTURE IMPROVEMENTS: Styling, Additional user features, notifications
+WIREFRAME: https://drive.google.com/file/d/1XQe1Lu-Bdh0NN3MZv1xSyKEnuibj5zgo/view?usp=sharing
 
+USER STORIES:
+    -USER 1 "I need a simple app to track todo items for my business"
+    -USER 2 "I need to make a grocery list on the fly"
+    -USER 3 "I need to plan my day using a easy checklist of items"
+    
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
