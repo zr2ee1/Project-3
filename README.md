@@ -1,3 +1,9 @@
+NAME: Cory Patton
+DESCRIPTION: ToDo React Redux Project
+DETAILS: This application is a simple todo list utilizing React and Redux, users can add, remove and filter todo items
+TECHNOLOGIES: React, Redux, HTML, CSS, JS
+FUTURE IMPROVEMENTS: Styling, Additional user features, notifications
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
